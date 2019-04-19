@@ -1,0 +1,26 @@
+{
+  "name": "smooth_page_transitions",
+  "version": "1.0.0",
+  "description": "We are going to build a website and adding smooth page transitions using javascript. We are going to use highway.js to create the page transitions between html pages and gsap to add animations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javadhemmati/Smooth_Page_Transitions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javadhemmati/Smooth_Page_Transitions/issues"
+  },
+  "homepage": "https://github.com/javadhemmati/Smooth_Page_Transitions#readme",
+  "devDependencies": {
+    "sass": "^1.19.0"
+  },
+  "dependencies": {
+    "@dogstudio/highway": "^2.1.2",
+    "gsap": "^2.1.2"
+  }
+}
