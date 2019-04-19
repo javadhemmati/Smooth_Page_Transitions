@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@dogstudio/highway": "^2.1.2",
-    "gsap": "^2.1.2"
+    "gsap": "^2.1.2",
+    "transition": "^0.1.1"
   }
 }
